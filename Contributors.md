@@ -168,6 +168,7 @@
 - [Athanasios Daratzikis](https://github.com/ics25026)
 - [Atirek Goyal](https://github.com/atirek89)
 - [Augustine Chiu](https://github.com/achiu283)
+- [Sudorio](https://github.com/sudorio)
 - [AvAdiii](https://github.com/AvAdiii)
 - [Ava16](https://github.com/Ava16)
 - [AvatarG](https://github.com/AvatarG)
