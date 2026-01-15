@@ -123,6 +123,7 @@
 - [Anil Nagvanshi](https://github.com/Kakashi27)
 - [Anirudh Panigrahi](https://github.com/Anirudh-020505)
 - [Anish Banda](https://github.con/anishbanda)
+- [Sudorio](https://github.con/sudorio)
 - [Anjali Kumari](https://github.com/Anjalikumari3136)
 - [Tejas Patil](https://github.com/Tejas2424-Tech)
 - [Anjaneya Kumar](https://github.com/Anjaneyakumar18)
